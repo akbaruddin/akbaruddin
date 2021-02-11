@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akbaruddin&margin-w=15)](https://github.com/akbaruddin/)
-
 
 
