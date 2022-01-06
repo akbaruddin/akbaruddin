@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaruddin" />
 
+<p>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
 <details>
   <summary>📦 Packages</summary>
   
