@@ -3,6 +3,13 @@
 - 😏 Love Zero-config
 - 🦥 Write less, do more
 
+<p>
+  
+  <a href="https://www.linkedin.com/in/akbaruddin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 <!--
 **akbaruddin/akbaruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,3 +53,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaruddin" />
 
+<details>
+  <summary>📦 Packages</summary>
+  
+  
+
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [EditorJS Link Autocomplete with GraphQL](https://github.com/akbaruddin/link-autocomplete) | GraphQL Search in Link  | [![NPM](https://img.shields.io/npm/v/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) | [![NPM](https://img.shields.io/npm/dt/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) |
+<!-- | Content Cell         | Content Cell                                | link | link | -->
+  
+</details
