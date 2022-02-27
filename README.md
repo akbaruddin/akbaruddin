@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [EditorJS Link Autocomplete with GraphQL](https://github.com/akbaruddin/link-autocomplete) | GraphQL Search in Link  | [![NPM](https://img.shields.io/npm/v/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) | [![NPM](https://img.shields.io/npm/dt/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) |
+| [Video Recorder with Extended Features](https://github.com/akbaruddin/react-video-recorder) | Video Recorder Extended  | [![NPM](https://img.shields.io/npm/v/react-video-recorder-custom)](https://www.npmjs.com/package/react-video-recorder-custom) | [![NPM](https://img.shields.io/npm/dt/react-video-recorder-custom)](https://www.npmjs.com/package/react-video-recorder-custom) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details
