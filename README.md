@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
+| [Tailwindcss animation-delay plugin](https://github.com/akbaruddin/tailwindcss-plugin-animation-delay) | Tailwind CSS plugin, add animation-delay CSS property.  | [![NPM](https://img.shields.io/npm/v/tailwindcss-plugin-animation-delay)](https://www.npmjs.com/package/tailwindcss-plugin-animation-delay) | [![NPM](https://img.shields.io/npm/dt/tailwindcss-plugin-animation-delay)](https://www.npmjs.com/package/tailwindcss-plugin-animation-delay) |
 | [EditorJS Link Autocomplete with GraphQL](https://github.com/akbaruddin/link-autocomplete) | GraphQL Search in Link  | [![NPM](https://img.shields.io/npm/v/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) | [![NPM](https://img.shields.io/npm/dt/link-autocomplete-gql)](https://www.npmjs.com/package/link-autocomplete-gql) |
 | [Video Recorder with Extended Features](https://github.com/akbaruddin/react-video-recorder) | Video Recorder Extended  | [![NPM](https://img.shields.io/npm/v/react-video-recorder-custom)](https://www.npmjs.com/package/react-video-recorder-custom) | [![NPM](https://img.shields.io/npm/dt/react-video-recorder-custom)](https://www.npmjs.com/package/react-video-recorder-custom) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
