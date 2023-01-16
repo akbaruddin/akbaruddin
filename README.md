@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=akbaruddin&count_private=true&show_icons=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akbaruddin&count_private=true&show_icons=true&include_all_commits=true" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaruddin" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akbaruddin" />
 
 <p>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
