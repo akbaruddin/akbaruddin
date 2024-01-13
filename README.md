@@ -47,27 +47,6 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/akbaruddin"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 <br />
 
-### My GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=akbaruddin&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaruddin"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=akbaruddin&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbaruddin&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
 <p>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
